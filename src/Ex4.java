@@ -5,7 +5,7 @@ public class Ex4 {
 
         Scanner obj = new Scanner(System.in);
         System.out.println("Introduceti trei numere: ");
-        int i = obj.nextInt();
+        int i  = obj.nextInt();
         int i1 = obj.nextInt();
         int i2 = obj.nextInt();
 
